@@ -13,7 +13,7 @@ The live demo performs best with an up-to-date version of Google Chrome.
 
 ### Getting Started
 
-Clone the repository and browse to the ol3 folder. Run:
+Clone the repository and browse to the `ol3` folder. Run:
 
 ```
 make install
